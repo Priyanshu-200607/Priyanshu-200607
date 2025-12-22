@@ -1,70 +1,47 @@
-# Hi 👋, I'm Priyanshu Swami
+# Hi 👋 I'm Priyanshu Swami
 
-🎓 B.Tech Student | 💻 Developer | 🤖 AI/ML Enthusiast  
+🎓 B.Tech Student | 💻 Developer | 🤖 AI & Systems Enthusiast  
 📍 India
 
 ---
 
-## 👨‍🎓 About Me
-
-I'm a B.Tech student with a strong interest in **software development, artificial intelligence, and system-level projects**.  
-I enjoy building **practical, real-world applications** while learning how things work under the hood.
-
-I prefer **learning by building**, experimenting with systems, and gradually improving projects instead of rushing incomplete ideas.
+## 👨‍💻 About Me
+B.Tech student passionate about **building practical software**, exploring **AI/ML**, and working on **system-level projects**.  
+I focus on **learning by building real-world applications** and improving them step by step.
 
 ---
 
 ## 🛠️ Tech Stack
+- **Languages:** Python, Java, Kotlin, JavaScript  
+- **Web:** HTML, CSS, Flask, Django (Basics)  
+- **AI/ML:** OpenCV, Face Recognition, LLMs (Learning)  
+- **Database:** MariaDB  
+- **Tools:** Git, Linux (Arch), Android Studio, VS Code
 
-### 💻 Programming & Development
-- **Python**
-- **Java / Kotlin (Android Development – Learning Phase)**
-- **HTML, CSS, JavaScript**
-- **Flask**
-- **Django (Basics)**
+---
 
-### 🧠 AI / ML
-- Face Detection & Recognition (OpenCV, ML concepts)
-- Working with pre-trained models
-- Learning **LLMs & Generative AI**
-- Local AI systems & automation
-
-### 🗄️ Databases
-- **MariaDB**
-- MySQL (basic understanding)
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Linux (Arch-based systems)
-- Android Studio
-- VS Code
-
+## 🚀 Projects
+- 🌱 **Botanic** – Plant-selling web app with cart & backend  
+- 🧑‍💻 **FaceDesk** – Face recognition attendance system  
+- 🤖 **Tarz** – Local personal AI assistant (system automation)
 
 ---
 
 ## 📚 Currently Learning
-
-- Advanced **Python**
-- Android Development
-- Machine Learning fundamentals
-- System automation & AI integration
-- Backend architecture for scalable apps
+- Android Development  
+- Machine Learning & LLMs  
+- Backend architecture & automation
 
 ---
 
 ## 🎯 Goals
-
-- Build **production-quality projects**
-- Improve system-level understanding
-- Prepare strong projects for **placements & final-year project**
-- Contribute to open-source in the future
+- Build **production-ready projects**  
+- Strengthen **AI + system-level skills**  
+- Prepare for **placements & final-year project**
 
 ---
 
-## 📫 Connect With Me
-
+## 📫 Connect
 - GitHub: [@Priyanshu921441](https://github.com/Priyanshu921441)
 
----
-
-⭐ *Always learning, building, and improving.*
+⭐ *Always learning. Always building.*
