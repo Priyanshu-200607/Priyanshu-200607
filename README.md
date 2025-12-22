@@ -39,31 +39,6 @@ I prefer **learning by building**, experimenting with systems, and gradually imp
 - Android Studio
 - VS Code
 
----
-
-## 🚀 Projects
-
-### 🌱 Botanic
-A plant-selling web application with cart functionality and backend integration.  
-Currently focused on making it **live and production-ready**.
-
-**Tech:** HTML, CSS, JavaScript, Flask/Django (planned), Database
-
----
-
-### 🧑‍💻 FaceDesk
-A **face recognition-based attendance system** using Python and ML concepts.  
-Currently working on transitioning from pre-trained models to **LLM-based logic**.
-
-**Tech:** Python, OpenCV, MariaDB
-
----
-
-### 🤖 Tarz (Personal AI Assistant)
-A local AI assistant inspired by JARVIS-style systems.  
-Designed to run **fully locally**, control system actions, and integrate with phone and automation tools.
-
-**Focus:** Local LLMs, system control, automation, performance optimization
 
 ---
 
