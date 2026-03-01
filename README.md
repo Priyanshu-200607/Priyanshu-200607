@@ -1,47 +1,67 @@
 # Hi 👋 I'm Priyanshu Swami
 
-🎓 B.Tech Student | 💻 Developer | 🤖 AI & Systems Enthusiast  
-📍 India
+🎓 B.Tech Student | 💻 Software Developer | 🤖 AI & Systems Enthusiast  
+📍 India  
+
+> Focused on building **practical backend systems**, **AI-powered applications**, and **Linux-based automation tools**.
 
 ---
 
 ## 👨‍💻 About Me
-B.Tech student passionate about **building practical software**, exploring **AI/ML**, and working on **system-level projects**.  
-I focus on **learning by building real-world applications** and improving them step by step.
+I’m a B.Tech student who believes in **learning by building real-world software**.  
+I enjoy working close to the system layer — combining **backend development, AI/ML, and automation** to solve practical problems.
+
+I actively rebuild and improve my projects to make them **secure, scalable, and production-ready**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, Kotlin, JavaScript  
-- **Web:** HTML, CSS, Flask, Django (Basics)  
-- **AI/ML:** OpenCV, Face Recognition, LLMs (Learning)  
-- **Database:** MariaDB  
-- **Tools:** Git, Linux (Arch), Android Studio, VS Code
+
+### Core
+- **Languages:** Python, Java, JavaScript, Kotlin  
+- **Backend & Web:** Flask, Django (Basics), REST APIs  
+- **Databases:** MariaDB  
+
+### AI / Systems
+- OpenCV, Face Recognition  
+- Local LLMs & AI Assistants (Learning)  
+- Linux (Arch), system automation
+
+### Tools
+- Git, VS Code, Android Studio
 
 ---
 
 ## 🚀 Projects
-- 🌱 **Botanic** – Plant-selling web app with cart & backend  
-- 🧑‍💻 **FaceDesk** – Face recognition attendance system  
-- 🤖 **Tarz** – Local personal AI assistant (system automation)
+
+- 🌱 **Botanic**  
+  Plant-selling web application with authentication, cart system, and backend logic.  
+  *(Currently rebuilding with better architecture & security)*
+
+- 🧑‍💻 **FaceDesk**  
+  Face recognition–based attendance system using OpenCV and a local database.
+
+- 🤖 **Tarz**  
+  Local personal AI assistant focused on system automation, offline-first design, and modular architecture.
 
 ---
 
 ## 📚 Currently Learning
 - Android Development  
-- Machine Learning & LLMs  
-- Backend architecture & automation
+- Machine Learning & Local LLMs  
+- Backend architecture, automation & system design
 
 ---
 
 ## 🎯 Goals
-- Build **production-ready projects**  
-- Strengthen **AI + system-level skills**  
-- Prepare for **placements & final-year project**
+- Build **production-ready, interview-worthy projects**  
+- Strengthen **AI + backend + system-level skills**  
+- Prepare for **placements & a strong final-year project**
 
 ---
 
 ## 📫 Connect
 - GitHub: [@Priyanshu921441](https://github.com/Priyanshu921441)
+- Mail: priyanshuswamilegemd07@gmail.com
 
 ⭐ *Always learning. Always building.*
